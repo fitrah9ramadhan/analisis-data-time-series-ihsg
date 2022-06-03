@@ -22,7 +22,7 @@ IHSG mengalami pergerakan yang cukup fluktuatif. Terutama sejak *Covid-19 outbre
 
 > Pergerakan rata-rata IHSG setiap bulan per Juni 2016 - Juni 2022
 
-![Barplot IHSG per month](/pictures/Barplot IHSG Rata-Rata per Bulan 2017-2022.png)
+![Barplot IHSG per month](/pictures/barplot.png)
 
 IHSG mengalami penurunan pada bulan-bulan tertentu, terutama pada bulan Mei, IHSG selalu megalami koreksi.
 
